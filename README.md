@@ -1,13 +1,16 @@
-# LAB - Class 38
+# lab39 , lab41
 
-## Project: Cookie Stand Admin Version 2
+## Django Deployment(backend):
 
-## Author: Abdallah Toughoj
+- [repository link](https://github.com/AbdToughoj/back_end)
+- [deployed link](https://back-end-ecru-eight.vercel.app/)
 
-## Setup
+## Next.js Deployment(front end):
 
-run **npm install**
+- [repository link](https://github.com/AbdToughoj/cookie-stand-admin/tree/main)
+- [deployed link](https://cookie-stand-admin-mauve-nu.vercel.app/)
 
-### How to initialize/run your application
+## username and password:
 
-run **npm run dev**
+**username:** abdallah
+**password:** abdallah
