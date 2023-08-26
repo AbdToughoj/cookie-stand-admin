@@ -8,7 +8,7 @@ export default function  Header() {
     <button
     
       type="submit"
-      className="p-2 text-white bg-green-500 rounded"
+      className="p-2 text-black bg-green-500 rounded"
     >
       <Link href={"assets/overview"}>
       Overview
