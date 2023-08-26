@@ -1,13 +1,13 @@
-# LAB - Class 37
+# LAB - Class 38
 
-## Project: Welcome to React, Next.js & TailwindCSS
+## Project: Cookie Stand Admin Version 2
 
 ## Author: Abdallah Toughoj
 
 ## Setup
 
-run npm install
+run **npm install**
 
 ### How to initialize/run your application
 
-run npm run dev
+run **npm run dev**
